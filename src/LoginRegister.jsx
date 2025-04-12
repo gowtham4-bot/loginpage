@@ -10,6 +10,7 @@ export const LoginRegister = ({ setUser }) => {
 
   return (
     <>
+    
       <label>
         Email:
         <input
@@ -110,6 +111,7 @@ export const LoginRegister = ({ setUser }) => {
       >
         Register
       </button>
+      
     </>
   );
 };
